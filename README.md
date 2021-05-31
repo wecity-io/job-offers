@@ -1,12 +1,12 @@
-# Buscamos CTO para la startup de inversión inmobiliaria wecity.io
+# Buscamos CTO para la startup de inversión inmobiliaria [wecity.io](https://wecity.io)
 
-## ¿Qué es wecity.io?
+## ¿Qué es [wecity.io](https://wecity.io)?
 
 Somos un marketplace B2C tecnológico que pone en contacto a los clientes promotores con los clientes inversores. Como **crowdfunding inmobiliario autorizado por la CNMV** lo que buscamos es solucionar la financiación a los promotores inmobiliarios y buscar rentabilidades altas propias del sector del real estate a los inversores que aportan la financiación. Somos financiación disruptiva a proyectos inmobiliarios.
 
 Nacimos hace 2 años y lanzamos nuestra plataforma al público hace 9 meses. Desde entonces **hemos financiado inmuebles por valor de 4M de euros y hemos dado una rentabilidad media a nuestros clientes superior al 10%.** Y no paramos de crecer.
 
-wecity.io ya ha sido testada por clientes y por agentes regulatorios.
+[wecity.io](https://wecity.io) ya ha sido testada por clientes y por agentes regulatorios.
 
 Queremos democratizar (**we** are crowd) el acceso a las altas rentabilidades del mercado inmobiliario institucional (we are **city**). **Queremos ser el kickstarter inmobiliario.**
 
@@ -16,7 +16,7 @@ Nos encontramos en **fase de crecimiento** y para ello el siguiente paso es inve
 - Crear aplicaciones nativas.
 - Implementar la tokenización de los activos mediante blockchain para facilitar la compra-venta entre nuestros clientes.
 
-[Nuestro equipo](https://www.wecity.io/es/equipo/) es pluridisciplinar (inmobiliarios, arquitectos, agentes, programadores, etc…) que ha trabajado en empresas nacionales e internacionales. Todos con una gran experiencia en sus distintas áreas y muy enfocados en el sector inmobiliario. Si te pica la curiosidad entra en wecity.io.
+[Nuestro equipo](https://www.wecity.io/es/equipo/) es pluridisciplinar (inmobiliarios, arquitectos, agentes, programadores, etc…) que ha trabajado en empresas nacionales e internacionales. Todos con una gran experiencia en sus distintas áreas y muy enfocados en el sector inmobiliario. Si te pica la curiosidad entra en [wecity.io](https://wecity.io).
 
 ## ¿Cuáles son nuestros objetivos?
 
