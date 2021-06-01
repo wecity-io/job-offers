@@ -94,3 +94,5 @@ El proceso de selección consistirá en una entrevista técnica y si pasas el co
 Para aplicar a esta oferta por favor rellena [este sencillo formulario](https://forms.gle/nPgXyqvjcFqMdcn48).
 
 ### ¡¡¡Te esperamos!!!
+
+> Si tienes cualquier duda sobre esta oferta escribe a migueldelmazo@gmail.com.
