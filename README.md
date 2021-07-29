@@ -1,5 +1,7 @@
 # Buscamos CTO para la startup de inversión inmobiliaria [wecity.io](https://wecity.io)
 
+## Deprecated: ya hemos encontrado a nuestro CTO ;)
+
 ## ¿Qué es [wecity.io](https://wecity.io)?
 
 Somos un marketplace B2C tecnológico que pone en contacto a los clientes promotores con los clientes inversores. Como **crowdfunding inmobiliario autorizado por la CNMV** lo que buscamos es solucionar la financiación a los promotores inmobiliarios y buscar rentabilidades altas propias del sector del real estate a los inversores que aportan la financiación. Somos financiación disruptiva a proyectos inmobiliarios.
